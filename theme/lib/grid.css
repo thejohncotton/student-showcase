@@ -35,11 +35,9 @@ body {
   .content>div:nth-child(6) {
     grid-row: 4 / span 2;
   }
-
-  .content>div:nth-child(7){
+  .content>div:nth-child(7) {
     grid-row: 6 / span 1;
   }
-
   .content>div:nth-child(8) {
     grid-column: span 2;
   }
