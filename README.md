@@ -17,4 +17,3 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 + Ramona Jones
 + Meagan Barbeau
 + Alex Pearson
-+ Janae C. Johnson
