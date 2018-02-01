@@ -7,6 +7,7 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 
 + Example - John Cotton
 (Follow on Github)["https://github.com/thejohncotton"]
+
 + Keri Hekdman
 + Chris Williams
 + Larry Hudson
