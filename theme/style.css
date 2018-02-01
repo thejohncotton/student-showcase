@@ -64,29 +64,18 @@ h1, h2, h3, h4, h5, h6, p, li {
   margin: auto;
 }
 
-.andrewDiv>img {
-  width: 100%;
-  box-shadow: 2px 2px 10px black;
-}
 
-.andrewDiv {
-  background: crimson;
-  font-family: arial;
-}
 
 .content>div:nth-child(12) {
   background: crimson;
 }
 
-.kyle {
-  width: auto;
-  max-height: 300px;
+.content {
+  padding-left:1em;
+  padding-top:1em;
 }
 
-#me {
-  background: url('//thewallpaper.co/wp-content/uploads/2016/10/Amazing-Abstract-Pictures-HD-1080p-desktop-images-download-hd-free-windows-wallpaper-samsung-iphone-mac-1920x1080.jpg');
-  overflow: hidden;
-}
+
 
 @keyframes typing {
   from {
@@ -145,30 +134,6 @@ h1, h2, h3, h4, h5, h6, p, li {
   }
 }
 
-#jonai {
-  text-align: center;
-  font-family: Josefin Slab;
-  border-right: .1em solid #848484;
-  width: calc(0.55em * 14);
-  width: 31ch;
-  white-space: nowrap;
-  overflow: hidden;
-  -webkit-animation: typing 15s infinite steps(31, end), blink-caret .5s step-end infinite alternate;
-  animation: typing 15s infinite steps(31, end), blink-caret .5s step-end infinite alternate;
-}
-
-#jonai {
-  font-family: Comic Sans MS;
-  text-decoration: underline;
-  color: hotpink;
-  text-align: center;
-}
-
-#jonai {
-  font-family: "cursive";
-  color: black;
-  font-size: 60px;
-}
 
 #Fa {
   font-size: 30px;
@@ -196,122 +161,109 @@ h1, h2, h3, h4, h5, h6, p, li {
   font-style: normal;
   font-weight: 100;
 }
+/*
+ADD CUSTOM STYLES IN YOUR DIV AREAS!
+ */
 
-#jpri {
-  font-family: "cursive";
-  src: url("../fonts/cursive.ttf");
-  font-style: normal;
-  font-weight: 100;
-  font-size: 35px;
-  text-align: center;
+ .exampleDiv {
+
+   background-color: purple;
+   margin:5px;
+   padding:5px;
+   float: right;
+ }
+
+ .alexDiv {
+
+
+ }
+
+ .allieDiv {
+
+
+ }
+
+ .keriDiv {
+
+
+ }
+
+ .chrisWilliamsDiv {
+
+
+ }
+
+ .larryDiv {
+
+
+ }
+
+ .danteDiv {
+
+
+ }
+
+.nickDiv {
+
+
 }
 
-.meaganDiv {
-  display: flex;
-  justify-content: center;
-  flex-flow: row wrap;
-  align-items: center;
-  background-image: url("//www.publicdomainpictures.net/pictures/120000/velka/teal-patterned-abstract-wallpaper.jpg");
+ .chaneyDiv {
+
+
+ }
+
+ .docDiv {
+
+
+ }
+
+.calebDiv {
+
+
 }
 
-.meaganDiv>h1 {
-  color: black;
-  font-family: 'Lobster', cursive;
-  font-size: 60px;
-  text-align: center;
-  margin-top: 30px;
+.keshaDiv {
+
+
 }
 
-.meaganDiv>a {
-  color: black;
-  font-family: monospace;
-  font-size: 30px;
-  text-align: center;
-  margin-top: 30px;
+.luzDiv {
+
+
 }
 
-#meaganPic {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 20px;
-  border: 7px solid cornsilk;
+.jameciaDiv {
+
+
 }
 
-.MartinsDiv {
-  display: flex;
-  justify-content: center;
-  flex-flow: row wrap;
-  align-items: center;
-  background-color: lightcoral;
+.jasmineDiv {
+
+
 }
 
-.MartinsDiv>img {
-  display: block;
-  width: 100%;
+.tneaDiv {
+
+
 }
 
-.MartinsDiv>h1 {
-  font-family: Verdana;
-  font-size: 2em;
-  color: blue;
+.carisaDiv {
+
+
 }
 
-.MartinsDiv>a {
-  font-family: Verdana;
-  font-size: 1em;
-  color: blue;
-  padding: 10px;
+.cherylDiv {
+
+
 }
 
-.rjLayout h1 {
-  font-size: 4em;
-  font-weight: 500;
-  font-style: oblique;
-  padding: 10px 50px 10px 100px;
-  color: blue;
+.tezDiv {
+
+
 }
 
-.rjLayout>img {
-  width: 50%;
-  height: auto;
-  padding: 10px 50px 10px 100px;
-}
+.darrellDiv {
 
-.rjLayout>h2 {
-  font-size: 2em;
-  padding: 10px 50px 10px 100px;
-}
 
-div.rjLayout {
-  background-color: lightblue;
-}
-
-.leodiv>img {
-  width: 50%;
-}
-
-div.JanaeDiv {
-  background-color: lightgreen;
-}
-
-.JanaeDiv h1 {
-  color: deeppink;
-}
-
-.JanaeDiv img {
-  width: 94%;
-}
-
-.teesaBox {
-  background-color: steelblue;
-}
-
-.teesaBox img {
-  width: 30%;
-  height: 30%;
-}
-
-.brandondiv {
-  background-color: green;
 }
