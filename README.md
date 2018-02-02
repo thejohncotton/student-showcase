@@ -15,7 +15,7 @@ Chris Williams
 + [Follow on Github]()
 
 Larry Hudson
-+ [Follow on Github]()
++ [Follow on Github](https://github.com/LarryHudson322)
 
 Dante Cruz
 + [Follow on Github]()
