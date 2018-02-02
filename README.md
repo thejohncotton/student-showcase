@@ -54,7 +54,7 @@ Carisa Brown
 + [Follow on Github]()
 
 Alex French
-+ [Follow on Github]()
++ [Follow on Github](https://github.com/adfrench11)
 
 Cheryl Zuckerman
 + [Follow on Github]()
