@@ -24,7 +24,7 @@ Nick Guertin
 + [Follow on Github]()
 
 Christopher Chaney
-+ [Follow on Github]()
++ [Follow on Github](https://github.com/CHANEYspeaks)
 
 Joseph Dockery
 + [Follow on Github]()
