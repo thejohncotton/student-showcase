@@ -249,6 +249,10 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
 
 .carisaDiv {
 
+  color: purple;
+  background-color: lightcoral;
+  border: 5px purple solid;
+  
 
 }
 
