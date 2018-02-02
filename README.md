@@ -63,4 +63,4 @@ Quintez Martin
 + [Follow on Github]()
 
 Darrell Haire
-+ [Follow on Github]()
++ [Follow on Github](https://github.com/darrellhaire405/darrellhaire)
