@@ -12,7 +12,7 @@ Keri Hekdman
 + [Follow on Github]()
 
 Chris Williams
-+ [Follow on Github]()
++ [Follow on Github](https://github.com/icanjapan)
 
 Larry Hudson
 + [Follow on Github]()
