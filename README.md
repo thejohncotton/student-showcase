@@ -30,7 +30,7 @@ Joseph Dockery
 + [Follow on Github](https://github.com/TDoc007)
 
 Caleb Lowe
-+ [Follow on Github]()
++ [Follow on Github](https://github.com/CalebLowe)
 
 Rakesha McIntryre
 + [Follow on Github](https://github.com/rrobinson18)
