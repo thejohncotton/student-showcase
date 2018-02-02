@@ -60,7 +60,7 @@ Cheryl Zuckerman
 + [Follow on Github]()
 
 Quintez Martin
-+ [Follow on Github]()
++ [Follow on Github](https://github.com/Houdini-Q/)
 
 Darrell Haire
 + [Follow on Github]()
