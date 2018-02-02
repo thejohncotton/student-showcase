@@ -183,10 +183,26 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
  }
 
  .keriDiv {
-
-
+  background-color: lightcoral;
+  border: 2px solid purple;
+  padding: 15px 0px 15px 0px;
  }
-
+ .keriDiv h3 {
+  color: purple;
+  font-family: Times;
+  font-size: 25px;
+  font-weight: bold;
+ }
+ .keriDiv a {
+  color: purple;
+  font-family: Times;
+  font-size: 18px;
+  font-weight: bold;
+ }
+ .keriDiv img {
+   border: 3px solid darkslategray;
+   margin: 5px;
+ }
  .chrisWilliamsDiv {
 
 
