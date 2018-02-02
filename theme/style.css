@@ -173,29 +173,75 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
  }
 
  .alexDiv {
+   background-color: SpringGreen;
+   border: 1px solid blue;
+   border-radius: 5px;
+   padding: 5px;
+   margin: 5px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+ }
 
+ .alexDiv img {
+   width: 75%;
+   min-height: 50%;
+ }
 
+ .alexDiv img, .alexDiv h1, .alexDiv a {
+   margin: 5px;
+   padding: 5px;
  }
 
  .allieDiv {
+   background-color: blue;
+   margin: 5px;
+   padding:5px;
+
+}
+.allieDiv img {
+  border-radius: 25px;
+  height: 140px;
+  width: 140px;
 
 
- }
+
+}
 
  .keriDiv {
-
-
+  background-color: lightcoral;
+  border: 2px solid purple;
+  padding: 15px 0px 15px 0px;
  }
-
+ .keriDiv h3 {
+  color: purple;
+  font-family: Times;
+  font-size: 25px;
+  font-weight: bold;
+ }
+ .keriDiv a {
+  color: purple;
+  font-family: Times;
+  font-size: 18px;
+  font-weight: bold;
+ }
+ .keriDiv img {
+   border: 3px solid darkslategray;
+   margin: 5px;
+ }
  .chrisWilliamsDiv {
 
 
  }
 
  .larryDiv {
-
-
+color: green;
+font-style: italic;
+font-size: 100%;
+margin: auto;
  }
+ .larryDiv img{width: 50%}
 
  .danteDiv {
 
@@ -208,7 +254,9 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
 }
 
  .chaneyDiv {
-
+   background-color: purple;
+   margin:5px;
+   padding:5px;
 
  }
 
@@ -223,18 +271,35 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
 }
 
 .keshaDiv {
+ background-color: Dodgerblue;
+ align: center;
 
 
 }
+
 
 .luzDiv {
-
-
+  color: blue;
+  font-size: 100%;
+  font-family: sans-serif;
+  margin: auto;
+}
+.luzDiv img {width: 25%;
 }
 
-.jameciaDiv {
+.keshaDiv img {
+background-color: Black;
+margin: 30px;
+padding: 30px;
+}
 
 
+
+.jamieciaDiv {background-color: purple;
+  text-shadow: red;
+  text-align: center;
+  color: maroon;
+  font-family: inherit;
 }
 
 .jasmineDiv {
@@ -242,13 +307,29 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
 
 }
 
-.tneaDiv {
-
-
+.tneaDiv img {
+  height: 300px;
+  width: 275px;
 }
+.tneaDiv a {
+color: #1BB39C;
+background-color: pink;
+border: ridge lightgrey 3px;
+font-weight: bold;
+}
+
+.tneaDiv h1 {
+  font-family: Helvetica;
+  color: #1BB39C;
+}
+
 
 .carisaDiv {
 
+  color: purple;
+  background-color: lightcoral;
+  border: 5px purple solid;
+  
 
 }
 
@@ -259,7 +340,34 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
 
 .tezDiv {
 
+}
 
+.tezDiv img {
+  height: 300px;
+  width: 275px;
+  border-radius: 30px;
+  border-style: groove;
+}
+
+.tezDiv h1 {
+  font-family: "turtles", "segoe script";
+  color: green;
+  weight: bold;
+
+}
+
+.tezDiv a {
+  background-color: white;
+  color: black;
+  border-style: ridge;
+  border-color: green;
+  box-shadow: 0px 8px 16px 0px rgba(255,200,200,0.2);
+}
+
+.tezDiv a:hover {
+  background-color: yellow;
+  color: black;
+  text-decoration: none;
 }
 
 .darrellDiv {
