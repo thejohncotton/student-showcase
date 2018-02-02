@@ -33,7 +33,7 @@ Caleb Lowe
 + [Follow on Github]()
 
 Rakesha McIntryre
-+ [Follow on Github]()
++ [Follow on Github](https://github.com/rrobinson18)
 
 Luz Cortes
 + [Follow on Github]()

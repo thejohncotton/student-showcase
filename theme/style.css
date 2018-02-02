@@ -256,9 +256,19 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
 }
 
 .keshaDiv {
+ background-color: Dodgerblue;
+ align: center;
 
 
 }
+
+.keshaDiv img {
+background-color: Black;
+margin: 30px;
+padding: 30px;
+}
+
+
 
 .luzDiv {
 
