@@ -42,7 +42,7 @@ Jamiecia Love
 + [Follow on Github]()
 
 Jasmine Thomas
-+ [Follow on Github]()
++ [Follow on Github](https://github.com/Jazzie3789)
 
 T'nea Mayweather
 + [Follow on Github]()
