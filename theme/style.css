@@ -178,9 +178,19 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
  }
 
  .allieDiv {
+   background-color: blue;
+   margin: 5px;
+   padding:5px;
+
+}
+.allieDiv img {
+  border-radius: 25px;
+  height: 140px;
+  width: 140px;
 
 
- }
+
+}
 
  .keriDiv {
 
