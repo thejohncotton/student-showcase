@@ -218,6 +218,12 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
  }
 
 .calebDiv {
+background: #fff url(https://images.pexels.com/photos/813269/pexels-photo-813269.jpeg?w=940&h=650&dpr=2&auto=compress&cs=tinysrgbhttps://images.pexels.com/photos/813269/pexels-photo-813269.jpeg?w=940&h=650&dpr=2&auto=compress&cs=tinysrgb) no-repeat bottom right;
+text-align: center;
+border-style: groove;
+border-width: medium;
+border-color: lightseagreen;
+border-radius: 40px;
 
 
 }
