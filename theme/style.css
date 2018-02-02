@@ -352,8 +352,18 @@ font-weight: bold;
   
 
 }
-
 .cherylDiv {
+  background-color: #BCA9F5;
+  font-size: 24px;
+  font-family: bedstead;
+  margin: 0 30 0 0;
+  text-align: center;
+  color: red;
+}
+
+.cherylDiv h1 {
+  font-size: 24px;
+  color: red;
 
 
 }
