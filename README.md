@@ -27,7 +27,7 @@ Christopher Chaney
 + [Follow on Github]()
 
 Joseph Dockery
-+ [Follow on Github]()
++ [Follow on Github](https://github.com/TDoc007)
 
 Caleb Lowe
 + [Follow on Github]()
