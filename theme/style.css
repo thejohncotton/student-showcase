@@ -238,8 +238,15 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
 }
 
 .jasmineDiv {
+border-width: 60px;
+font-family: fantasy;
 
 
+}
+
+.jasmineDiv img{
+opacity 0.3;
+width: auto;
 }
 
 .tneaDiv {
