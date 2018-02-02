@@ -188,10 +188,16 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
  }
 
  .chrisWilliamsDiv {
-
+    background-color: black;
+    color: pink;
+    margin:5px;
+    padding:50px;
+    text-transform: lowercase;
 
  }
-
+.chrisWilliamsDivImg {
+    width: 300px;
+}
  .larryDiv {
 
 
