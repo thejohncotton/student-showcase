@@ -63,8 +63,5 @@ Quintez Martin
 + [Follow on Github](https://github.com/Houdini-Q/)
 
 Darrell Haire
-+ [Follow on Github]()
++ [Follow on Github](https://github.com/darrellhaire405/darrellhaire)
 
-git add .
-git commit -m "copy from John Cotton"
-git push origin master
