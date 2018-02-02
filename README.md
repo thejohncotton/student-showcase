@@ -48,7 +48,7 @@ T'nea Mayweather
 + [Follow on Github]()
 
 Alexandria Strider
-+ [Follow on Github]()
++ [Follow on GitHub](https://github.com/alexandriastrider)
 
 Carisa Brown
 + [Follow on Github]()
