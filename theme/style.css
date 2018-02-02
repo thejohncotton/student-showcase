@@ -208,7 +208,9 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
 }
 
  .chaneyDiv {
-
+   background-color: purple;
+   margin:5px;
+   padding:5px;
 
  }
 
