@@ -39,7 +39,7 @@ Luz Cortes
 + [Follow on Github]()
 
 Jamiecia Love
-+ [Follow on Github]()
++ [Follow on Github](https://github.com/JamieciaLove)
 
 Jasmine Thomas
 + [Follow on Github]()

@@ -265,9 +265,11 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
 
 }
 
-.jameciaDiv {
-
-
+.jamieciaDiv {background-color: purple;
+  text-shadow: red;
+  text-align: center;
+  color: maroon;
+  font-family: inherit;
 }
 
 .jasmineDiv {
