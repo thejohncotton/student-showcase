@@ -45,7 +45,7 @@ Jasmine Thomas
 + [Follow on Github]()
 
 T'nea Mayweather
-+ [Follow on Github]()
++ [Follow on Github](https://github.com/TMayweather/)
 
 Alexandria Strider
 + [Follow on Github]()

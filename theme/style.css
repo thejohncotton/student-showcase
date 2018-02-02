@@ -287,10 +287,22 @@ padding: 30px;
 
 }
 
-.tneaDiv {
-
-
+.tneaDiv img {
+  height: 300px;
+  width: 275px;
 }
+.tneaDiv a {
+color: #1BB39C;
+background-color: pink;
+border: ridge lightgrey 3px;
+font-weight: bold;
+}
+
+.tneaDiv h1 {
+  font-family: Helvetica;
+  color: #1BB39C;
+}
+
 
 .carisaDiv {
 
