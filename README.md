@@ -36,7 +36,7 @@ Rakesha McIntryre
 + [Follow on Github]()
 
 Luz Cortes
-+ [Follow on Github]()
++ [Follow on Github](https://github.com/laluzmcortes)
 
 Jamiecia Love
 + [Follow on Github]()
@@ -64,3 +64,7 @@ Quintez Martin
 
 Darrell Haire
 + [Follow on Github]()
+
+git add .
+git commit -m "copy from John Cotton"
+git push origin master
