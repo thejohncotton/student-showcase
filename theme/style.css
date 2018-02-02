@@ -272,6 +272,16 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
 
 }
 
+
+.luzDiv {
+  color: blue;
+  font-size: 100%;
+  font-family: sans-serif;
+  margin: auto;
+}
+.luzDiv img {width: 25%;
+}
+
 .keshaDiv img {
 background-color: Black;
 margin: 30px;
@@ -279,11 +289,6 @@ padding: 30px;
 }
 
 
-
-.luzDiv {
-
-
-}
 
 .jamieciaDiv {background-color: purple;
   text-shadow: red;
