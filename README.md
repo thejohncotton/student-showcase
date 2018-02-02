@@ -57,7 +57,7 @@ Alex French
 + [Follow on Github]()
 
 Cheryl Zuckerman
-+ [Follow on Github]()
++ [Follow on Github](https://github.com/macwizard3)
 
 Quintez Martin
 + [Follow on Github]()
