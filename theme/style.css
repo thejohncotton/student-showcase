@@ -259,7 +259,34 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
 
 .tezDiv {
 
+}
 
+.tezDiv img {
+  height: 300px;
+  width: 275px;
+  border-radius: 30px;
+  border-style: groove;
+}
+
+.tezDiv h1 {
+  font-family: "turtles", "segoe script";
+  color: green;
+  weight: bold;
+
+}
+
+.tezDiv a {
+  background-color: white;
+  color: black;
+  border-style: ridge;
+  border-color: green;
+  box-shadow: 0px 8px 16px 0px rgba(255,200,200,0.2);
+}
+
+.tezDiv a:hover {
+  background-color: yellow;
+  color: black;
+  text-decoration: none;
 }
 
 .darrellDiv {
