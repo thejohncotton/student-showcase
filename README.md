@@ -51,7 +51,7 @@ Alexandria Strider
 + [Follow on GitHub](https://github.com/alexandriastrider)
 
 Carisa Brown
-+ [Follow on Github]()
++ [Follow on Github](https://github.com/rainbeamer)
 
 Alex French
 + [Follow on Github](https://github.com/adfrench11)
