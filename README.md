@@ -21,7 +21,7 @@ Dante Cruz
 + [Follow on Github]()
 
 Nick Guertin
-+ [Follow on Github]()
++ [Follow on Github](https://github.com/NickGuertin)
 
 Christopher Chaney
 + [Follow on Github]()
