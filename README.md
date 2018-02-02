@@ -8,14 +8,14 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 Example - John Cotton
 + [Follow on Github](https://github.com/thejohncotton)
 
-Keri Hekdman
-+ [Follow on Github]()
+Keri Hedman
++ [Follow on Github](https://github.com/LaRose9548/)
 
 Chris Williams
-+ [Follow on Github]()
++ [Follow on Github](https://github.com/icanjapan)
 
 Larry Hudson
-+ [Follow on Github]()
++ [Follow on Github](https://github.com/LarryHudson322)
 
 Dante Cruz
 + [Follow on Github]()
@@ -24,43 +24,44 @@ Nick Guertin
 + [Follow on Github]()
 
 Christopher Chaney
-+ [Follow on Github]()
++ [Follow on Github](https://github.com/CHANEYspeaks)
 
 Joseph Dockery
-+ [Follow on Github]()
++ [Follow on Github](https://github.com/TDoc007)
 
 Caleb Lowe
 + [Follow on Github]()
 
 Rakesha McIntryre
-+ [Follow on Github]()
++ [Follow on Github](https://github.com/rrobinson18)
 
 Luz Cortes
-+ [Follow on Github]()
++ [Follow on Github](https://github.com/laluzmcortes)
 
 Jamiecia Love
-+ [Follow on Github]()
++ [Follow on Github](https://github.com/JamieciaLove)
 
 Jasmine Thomas
 + [Follow on Github](https://github.com/Jazzie3789)
 
 T'nea Mayweather
-+ [Follow on Github]()
++ [Follow on Github](https://github.com/TMayweather/)
 
 Alexandria Strider
-+ [Follow on Github]()
++ [Follow on GitHub](https://github.com/alexandriastrider)
 
 Carisa Brown
-+ [Follow on Github]()
++ [Follow on Github](https://github.com/rainbeamer)
 
 Alex French
-+ [Follow on Github]()
++ [Follow on Github](https://github.com/adfrench11)
 
 Cheryl Zuckerman
 + [Follow on Github]()
 
 Quintez Martin
-+ [Follow on Github]()
++ [Follow on Github](https://github.com/Houdini-Q/)
 
 Darrell Haire
-+ [Follow on Github]()
++ [Follow on Github](https://github.com/darrellhaire405/darrellhaire)
+
