@@ -186,7 +186,8 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
  }
 
  .alexDiv img {
-   width: 50%;
+   width: 75%;
+   min-height: 50%;
  }
 
  .alexDiv img, .alexDiv h1, .alexDiv a {
