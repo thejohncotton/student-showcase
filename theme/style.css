@@ -231,10 +231,16 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
    margin: 5px;
  }
  .chrisWilliamsDiv {
-
+    background-color: black;
+    color: pink;
+    margin:5px;
+    padding:50px;
+    text-transform: lowercase;
 
  }
-
+.chrisWilliamsDivImg {
+    width: 300px;
+}
  .larryDiv {
 color: green;
 font-style: italic;
