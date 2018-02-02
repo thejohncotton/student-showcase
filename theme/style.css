@@ -255,10 +255,14 @@ margin: auto;
  }
 
 .nickDiv {
+background-color: gray;
 
 
 }
-
+.nickDiv img {
+  height: 50%;
+  width: 50%;
+}
  .chaneyDiv {
    background-color: purple;
    margin:5px;
