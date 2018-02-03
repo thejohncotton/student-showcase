@@ -250,10 +250,34 @@ margin: auto;
  .larryDiv img{width: 50%}
 
  .danteDiv {
-
-
+  background-color: black;
+  width: 350px;
+  height: 550px;
+  border-radius: 10%;
+  text-align: center;
+  border: 3px solid #2D342D;
  }
 
+ .danteDiv a{
+   display: block;
+ }
+ .danteDiv h1, a, img{
+   margin-bottom: 20px;
+ }
+ .danteDiv img{
+   width: 300px;
+   height: 300px;
+ }
+
+ .danteDiv .circle{
+   border: 1px solid #fff;
+   background-color: #2D342D;
+   width:40px;
+   height: 40px;
+   border-radius: 100%;
+   margin: 0 auto;
+   margin-top: 70px;
+ }
 .nickDiv {
 background-color: gray;
 
@@ -355,7 +379,7 @@ font-weight: bold;
   color: purple;
   background-color: lightcoral;
   border: 5px purple solid;
-  
+
 
 }
 .cherylDiv {
