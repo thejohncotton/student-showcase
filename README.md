@@ -18,7 +18,7 @@ Larry Hudson
 + [Follow on Github](https://github.com/LarryHudson322)
 
 Dante Cruz
-+ [Follow on Github]()
++ [Follow on Github](https://github.com/dantegalindocruz)
 
 Nick Guertin
 + [Follow on Github](https://github.com/NickGuertin)
@@ -64,4 +64,3 @@ Quintez Martin
 
 Darrell Haire
 + [Follow on Github](https://github.com/darrellhaire405/darrellhaire)
-
