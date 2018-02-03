@@ -328,7 +328,8 @@ font-family: fantasy;
 
 .jasmineDiv img{
 opacity 0.3;
-width: auto;
+width: 300px;
+height: 250px;
 }
 
 .tneaDiv {
@@ -355,7 +356,7 @@ font-weight: bold;
   color: purple;
   background-color: lightcoral;
   border: 5px purple solid;
-  
+
 
 }
 .cherylDiv {
