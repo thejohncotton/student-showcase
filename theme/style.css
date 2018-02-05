@@ -399,7 +399,9 @@ font-weight: bold;
 }
 
 .tezDiv {
-
+  width: 400px;
+  height: 600px;
+  text-align: center;
 }
 
 .tezDiv img {
@@ -407,13 +409,16 @@ font-weight: bold;
   width: 275px;
   border-radius: 30px;
   border-style: groove;
+  margin-bottom: 7%;
+  text-align: center;
 }
 
 .tezDiv h1 {
   font-family: "turtles", "segoe script";
   color: green;
   weight: bold;
-
+  text-align: center;
+  margin-left: 20%;
 }
 
 .tezDiv a {
@@ -422,6 +427,9 @@ font-weight: bold;
   border-style: ridge;
   border-color: green;
   box-shadow: 0px 8px 16px 0px rgba(255,200,200,0.2);
+  text-align: center;
+  margin-top: 10px;
+  margin-left: -48%;
 }
 
 .tezDiv a:hover {
