@@ -343,16 +343,20 @@ padding: 30px;
 }
 
 .jasmineDiv {
-border-width: 60px;
-font-family: fantasy;
-
-
+border-width: 200px;
+font-family: "Georgia", fantasy;
+font-style: italic;
+font-
 }
 
 
 .jasmineDiv img{
 opacity 0.3;
-width: auto;
+width: 320px;
+height: 250px;
+border-radius: 20px;
+border-width: thick;
+
 }
 
 .tneaDiv {
