@@ -172,27 +172,48 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
    padding:5px;
  }
 
- .alexDiv {
-   background-color: SpringGreen;
-   border: 1px solid blue;
-   border-radius: 5px;
-   padding: 5px;
-   margin: 5px;
-   display: flex;
-   flex-direction: column;
-   justify-content: center;
-   align-items: center;
+.alexDiv {
+ background-color: #FAFAFA;
+ padding: 5px;
+ margin: 5px;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ box-shadow: 2px 2px 5px 1px rgb(216, 216, 216);
+ border-radius: 3px;
+}
+
+.alexDiv h1 {
+  color: #525151;
+  font-family: Kreon, sans-serif;
+  font-weight: 400;
  }
 
- .alexDiv img {
-   width: 75%;
-   min-height: 50%;
- }
+.alexDiv img {
+ width: 75%;
+ min-height: 50%;
+}
 
- .alexDiv img, .alexDiv h1, .alexDiv a {
-   margin: 5px;
-   padding: 5px;
- }
+.alexDiv img, .alexDiv h1, .alexDiv a {
+ margin: 5px;
+ padding: 5px;
+}
+
+.alexDiv a {
+  font-family: Barlow, sans-serif;
+  font-size: 16px;
+  background: #00BCD4;
+  color: white;
+  border-radius: 3px;
+  padding: 11px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.alexDiv a:hover {
+  background: #00ACC1;
+}
 
  .allieDiv {
    background-color: blue;
@@ -355,7 +376,7 @@ font-weight: bold;
   color: purple;
   background-color: lightcoral;
   border: 5px purple solid;
-  
+
 
 }
 .cherylDiv {
